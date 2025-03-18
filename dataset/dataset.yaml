@@ -1,0 +1,9 @@
+train: images/train
+val: images/test
+test: images/test
+
+nc: 3
+names:
+  0: WBC
+  1: RBC
+  2: Platelets
