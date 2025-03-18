@@ -1,1 +1,8 @@
-
+streamlit
+matplotlib
+numpy
+ultralytics
+opencv-python
+xml
+os
+torch
